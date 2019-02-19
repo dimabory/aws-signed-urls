@@ -1,0 +1,20 @@
+{
+  "name": "aws-signed-urls",
+  "version": "1.0.0",
+  "description": "How to serve private content from S3 bucket using signed urls",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "aws",
+    "aws-sdk",
+    "cloudfront",
+    "s3"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "aws-sdk": "^2.405.0",
+    "dotenv-safe": "^6.1.0"
+  }
+}
